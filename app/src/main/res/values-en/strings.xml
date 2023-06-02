@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="strEmail">Your Email</string>
+    <string name="strtxtEmail">Email</string>
+    <string name="strContraseña">Your Password</string>
+    <string name="strtxtContraseña">Password</string>
+    <string name="strbtnLogin">Sign In</string>
+    <string name="strMenuTools">Tools</string>
+    <string name="strMenuAbout">About</string>
+    <string name="strMenuSalir">Sign Out</string>
+    <string name="strHomeTexto">Technology company dedicated to software production, electronic devices, personal computers and related services since 1975</string>
+    <string name="strHomeLogo1">"Windows 3.1 Logo "</string>
+    <string name="strHomeLogo2">Windows 2021 Logo</string>
+    <string name="strAppsBoton">Open</string>
+    <string name="strAboutTexto">"Programmed by Julian Elizondo                  ☆☆☆  "</string>
+    <string name="strAboutBoton">Call</string>
+</resources>

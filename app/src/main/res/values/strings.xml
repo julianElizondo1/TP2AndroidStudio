@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="strEmail">Ingrese su Email</string>
+    <string name="strtxtEmail">Correo</string>
+    <string name="strContraseña">Ingrese su Contraseña</string>
+    <string name="strtxtContraseña">Contraseña</string>
+    <string name="strbtnLogin">Ingresar</string>
+    <string name="strMenuTools">Herramientas</string>
+    <string name="strMenuAbout">Acerca De</string>
+    <string name="strMenuSalir">Cerrar Sesión</string>
+    <string name="strHomeTexto">Empresa tecnologica dedicada a la produccion de software, productos electronicos, computadoras personales y servicios relacionados desde 1975</string>
+    <string name="strHomeLogo1">Logo Windows 3.1</string>
+    <string name="strHomeLogo2">Logo Windows 2021</string>
+    <string name="strAppsBoton">Abrir</string>
+    <string name="strAboutTexto">Codigo de Julian Elizondo                  ☆☆☆</string>
+    <string name="strAboutBoton">Llamar</string>
+
+</resources>

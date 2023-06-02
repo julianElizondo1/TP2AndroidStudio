@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/itemHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/itemHerramientas"
+        android:icon="@drawable/icon_tools"
+        android:title="@string/strMenuTools" />
+
+    <item
+        android:id="@+id/itemAcercade"
+        android:icon="@drawable/baseline_info_24"
+        android:title="@string/strMenuAbout" />
+    <item
+        android:id="@+id/itemCerrarsesion"
+        android:icon="@android:drawable/ic_menu_close_clear_cancel"
+        android:iconTint="@color/black"
+        android:title="@string/strMenuSalir" />
+</menu>
